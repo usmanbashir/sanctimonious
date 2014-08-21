@@ -1,6 +1,6 @@
 # Sanctimonious
 
-TODO: Write a gem description
+An opinionated static site generator optimized for programmer happiness and sustainable productivity by favoring convention over configuration.
 
 ## Installation
 
